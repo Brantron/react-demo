@@ -1,0 +1,16 @@
+.search-bar {
+  margin: 2rem;
+  text-align: center;
+}
+
+.search-bar input {
+  width: 75%;
+}
+
+.list-group-item {
+  cursor: pointer;
+}
+
+.list-group-item:hover {
+  background: lightgray;
+}
